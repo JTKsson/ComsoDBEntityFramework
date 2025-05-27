@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudDB_Assignment2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954f9da0417821e021ba139eb80b42ff89756b61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b32340ec1a3851adb102bbdb6b7f2825bbbd2ef2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudDB_Assignment2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudDB_Assignment2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
