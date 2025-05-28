@@ -30,7 +30,6 @@ namespace CloudDB_Assignment2.Endpoints
 
             app.MapPut("/api/customers/", async (Customer updatedCustomer, ICustomerRepo repo) =>
             {
-                //if (id != updatedCustomer.CustomerId) return Results.BadRequest("ID mismatch.");
                 await repo.UpdateCustomer(updatedCustomer);
                 return Results.Ok();
             });

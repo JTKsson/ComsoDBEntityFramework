@@ -13,13 +13,8 @@ namespace CloudDB_Assignment2.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Customer>()
-     .ToContainer("Customers")
-     .HasPartitionKey(c => c.CustomerId)
-     .OwnsOne(c => c.SalesRep);
-
-            modelBuilder.Entity<Customer>()
-                .Property(c => c.CustomerId);
-
+                .ToContainer("Customers")
+                .HasPartitionKey(c => c.CustomerId);
         }
 
     }

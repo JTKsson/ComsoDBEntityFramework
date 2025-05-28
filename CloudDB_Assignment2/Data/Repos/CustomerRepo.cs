@@ -24,8 +24,8 @@ namespace CloudDB_Assignment2.Data.Repos
         public async Task<List<Customer>> SearchSalesRep(string condition)
         {
             return await _context.Customers
-                .Where(c => c.SalesRep.Name != null &&
-                            c.SalesRep.Name.Contains(condition, StringComparison.OrdinalIgnoreCase))
+                .Where(c => c.FullName != null &&
+                            c.FullName.Contains(condition, StringComparison.OrdinalIgnoreCase))
                 .ToListAsync();
         }
 

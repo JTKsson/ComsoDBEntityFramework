@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights.sdk"
+    },
+    "storage1": {
+      "type": "storage.emulator",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "cosmosdb1": {
+      "serviceConnectorResourceId": "",
+      "containerPorts": "8081:8081,10251:10251,10252:10252,10253:10253,10254:10254",
+      "secretStore": "LocalSecretsFile",
+      "containerName": "Customers",
+      "containerImage": "mcr.microsoft.com/cosmosdb/linux/azure-cosmos-emulator",
+      "type": "cosmosdb.container",
+      "connectionId": "AccountEndpoint=https:::assignmenttwo.documents.azure.com:443:;AccountKey=lqAqwo820WE445cqg7kARoNYVLULPPd1XGphhSAOy8Np902eNOR7AgXOS00fhGdyWk4ikmIv1aMrACDb2tZqTg==;",
+      "dynamicId": null
+    }
+  }
+}

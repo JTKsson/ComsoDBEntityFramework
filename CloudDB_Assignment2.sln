@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDB_Assignment2", "CloudDB_Assignment2\CloudDB_Assignment2.csproj", "{6D0E1C65-B987-46C3-8445-817EDD25E4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAzFunc", "CustomerAzFunc\CustomerAzFunc.csproj", "{95403555-0529-4C31-AB61-99E020394AED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3A7988D-D2E6-41A9-BD8F-91A2FA44B613}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{6D0E1C65-B987-46C3-8445-817EDD25E4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D0E1C65-B987-46C3-8445-817EDD25E4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D0E1C65-B987-46C3-8445-817EDD25E4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95403555-0529-4C31-AB61-99E020394AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95403555-0529-4C31-AB61-99E020394AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95403555-0529-4C31-AB61-99E020394AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95403555-0529-4C31-AB61-99E020394AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
