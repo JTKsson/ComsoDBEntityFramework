@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CloudDB_Assignment2.props" />
-</Project>

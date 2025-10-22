@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CloudDB_Assignment2\\CloudDB_Assignment2.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "CustomerAzFunc\\CustomerAzFunc.csproj",
+        "Action": "Start",
+        "DebugTarget": "CustomerAzFunc"
+      }
+    ]
+  }
+]

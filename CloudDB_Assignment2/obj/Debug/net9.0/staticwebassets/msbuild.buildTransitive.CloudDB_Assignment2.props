@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CloudDB_Assignment2.props" />
-</Project>

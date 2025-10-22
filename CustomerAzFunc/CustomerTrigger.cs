@@ -1,8 +1,5 @@
-using System;
-using System.Collections.Generic;
 using CloudDB_Assignment2.Data.Entities;
 using Microsoft.Azure.Functions.Worker;
-using Microsoft.Extensions.Logging;
 using SendGrid;
 using SendGrid.Helpers.Mail;
 

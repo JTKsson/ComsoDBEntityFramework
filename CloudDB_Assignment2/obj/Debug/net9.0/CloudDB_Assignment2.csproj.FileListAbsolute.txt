@@ -37,7 +37,6 @@ C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assig
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\System.Memory.Data.dll
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
@@ -59,12 +58,6 @@ C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assig
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets\msbuild.CloudDB_Assignment2.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets\msbuild.CloudDB_Assignment2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets\msbuild.build.CloudDB_Assignment2.props
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CloudDB_Assignment2.props
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CloudDB_Assignment2.props
-C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\CloudDB_.823A9B12.Up2Date
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\CloudDB_Assignment2.dll
@@ -72,3 +65,9 @@ C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assig
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\CloudDB_Assignment2.pdb
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\CloudDB_Assignment2.genruntimeconfig.cache
 C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\ref\CloudDB_Assignment2.dll
+C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\CloudDB_Assignment2.sourcelink.json
+C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Documents\JensenEducations\Molndatabaser\Assignments\CloudDB_Assignment2\CloudDB_Assignment2\obj\Debug\net9.0\staticwebassets.build.json.cache
